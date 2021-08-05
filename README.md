@@ -1,6 +1,6 @@
 # Mi primer blog
 
-1. Se crea un proyecto con el título: #PaginaWeb
+1. Se crea un proyecto con el título: PaginaWeb
 
 2. La descripción del repositorio es: 
    Página web a Github: https://miriam410.github.io/PaginaWeb/
