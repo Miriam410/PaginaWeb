@@ -1,2 +1,3 @@
 # PaginaWeb
-Subir una página web a Github
+
+Para crear una página web, se utilizó un: "FREE BOOTSTRAP THEMES"
